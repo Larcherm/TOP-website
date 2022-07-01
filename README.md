@@ -1,0 +1,1 @@
+Website built according to the specifications of the lesson "Project: Landing page" of The Odin Project.
